@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh R G</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **Api Gateway**
-
-- 🌱 I’m currently learning **Angular, React**
+- 🔭 I’m currently working on **Let's Share - A video processing project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganeshydv](https://github.com/ganeshydv)
 
